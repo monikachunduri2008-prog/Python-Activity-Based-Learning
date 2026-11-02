@@ -1,16 +1,16 @@
 # Python-Activity-Based-Learning
-Name : Panidepu Sivanaga Lakshmi
-Roll Number : 26000115
+Name : CH. Monika Naga Tulasi
+Roll Number : 26000083
 Branch : CSE 
 Section : 2 
 Title :
-Examination Result and Grace-Mark Validation
-University Scholarship Allocation
-ATM Transaction Sequence Simulation
-Progressive Electricity Billing
-Retail Billing with Multiple Discount Rules
-Multi-Day Water Tank Simulation
-Student Performance Trend Analysis
-Advanced Numeric Pattern Generator
-Student Timetable Conflict Detection
-Food Waste Monitoring System
+1.Examination Result and Grace-Mark Validation
+2.University Scholarship Allocation
+3.ATM Transaction Sequence Simulation
+4.Progressive Electricity Billing
+5.Retail Billing with Multiple Discount Rules
+6.Multi-Day Water Tank Simulation
+7.Student Performance Trend Analysis
+8.Advanced Numeric Pattern Generator
+9.Student Timetable Conflict Detection
+10.Food Waste Monitoring System
